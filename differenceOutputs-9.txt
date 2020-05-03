@@ -1,0 +1,240 @@
+Set 1
+Forward: (30339,25344) -> DELTA:4995
+Backward: (30473,25520) -> DELTA:4953
+False
+Set 2
+Forward: (30339,17542) -> DELTA:12797
+Backward: (30473,18102) -> DELTA:12371
+False
+Set 3
+Forward: (30339,25520) -> DELTA:4819
+Backward: (30473,26206) -> DELTA:4267
+False
+Set 4
+Forward: (30339,28355) -> DELTA:1984
+Backward: (30473,28422) -> DELTA:2051
+False
+Set 5
+Forward: (30339,23592) -> DELTA:6747
+Backward: (30473,24185) -> DELTA:6288
+False
+Set 6
+Forward: (30339,17169) -> DELTA:13170
+Backward: (30473,17736) -> DELTA:12737
+False
+Set 7
+Forward: (30339,81) -> DELTA:30258
+Backward: (30473,148) -> DELTA:30325
+False
+Set 8
+Forward: (30339,147) -> DELTA:30192
+Backward: (30473,244) -> DELTA:30229
+False
+Set 9
+Forward: (30339,670) -> DELTA:29669
+Backward: (30473,1451) -> DELTA:29022
+False
+Set 10
+Forward: (30339,28423) -> DELTA:1916
+Backward: (30473,28714) -> DELTA:1759
+False
+Set 11
+Forward: (23587,25344) -> DELTA:-1757
+Backward: (24075,25520) -> DELTA:-1445
+False
+Set 12
+Forward: (23587,17542) -> DELTA:6045
+Backward: (24075,18102) -> DELTA:5973
+False
+Set 13
+Forward: (23587,25520) -> DELTA:-1933
+Backward: (24075,26206) -> DELTA:-2131
+False
+Set 14
+Forward: (23587,28355) -> DELTA:-4768
+Backward: (24075,28422) -> DELTA:-4347
+False
+Set 15
+Forward: (23587,23592) -> DELTA:-5
+Backward: (24075,24185) -> DELTA:-110
+True
+Set 16
+Forward: (23587,17169) -> DELTA:6418
+Backward: (24075,17736) -> DELTA:6339
+False
+Set 17
+Forward: (23587,81) -> DELTA:23506
+Backward: (24075,148) -> DELTA:23927
+False
+Set 18
+Forward: (23587,147) -> DELTA:23440
+Backward: (24075,244) -> DELTA:23831
+False
+Set 19
+Forward: (23587,670) -> DELTA:22917
+Backward: (24075,1451) -> DELTA:22624
+False
+Set 20
+Forward: (23587,28423) -> DELTA:-4836
+Backward: (24075,28714) -> DELTA:-4639
+False
+Set 21
+Forward: (58,25344) -> DELTA:-25286
+Backward: (186,25520) -> DELTA:-25334
+False
+Set 22
+Forward: (58,17542) -> DELTA:-17484
+Backward: (186,18102) -> DELTA:-17916
+False
+Set 23
+Forward: (58,25520) -> DELTA:-25462
+Backward: (186,26206) -> DELTA:-26020
+False
+Set 24
+Forward: (58,28355) -> DELTA:-28297
+Backward: (186,28422) -> DELTA:-28236
+False
+Set 25
+Forward: (58,23592) -> DELTA:-23534
+Backward: (186,24185) -> DELTA:-23999
+False
+Set 26
+Forward: (58,17169) -> DELTA:-17111
+Backward: (186,17736) -> DELTA:-17550
+False
+Set 27
+Forward: (58,81) -> DELTA:-23
+Backward: (186,148) -> DELTA:38
+True
+Set 28
+Forward: (58,147) -> DELTA:-89
+Backward: (186,244) -> DELTA:-58
+True
+Set 29
+Forward: (58,670) -> DELTA:-612
+Backward: (186,1451) -> DELTA:-1265
+False
+Set 30
+Forward: (58,28423) -> DELTA:-28365
+Backward: (186,28714) -> DELTA:-28528
+False
+Set 31
+Forward: (2300,25344) -> DELTA:-23044
+Backward: (2569,25520) -> DELTA:-22951
+False
+Set 32
+Forward: (2300,17542) -> DELTA:-15242
+Backward: (2569,18102) -> DELTA:-15533
+False
+Set 33
+Forward: (2300,25520) -> DELTA:-23220
+Backward: (2569,26206) -> DELTA:-23637
+False
+Set 34
+Forward: (2300,28355) -> DELTA:-26055
+Backward: (2569,28422) -> DELTA:-25853
+False
+Set 35
+Forward: (2300,23592) -> DELTA:-21292
+Backward: (2569,24185) -> DELTA:-21616
+False
+Set 36
+Forward: (2300,17169) -> DELTA:-14869
+Backward: (2569,17736) -> DELTA:-15167
+False
+Set 37
+Forward: (2300,81) -> DELTA:2219
+Backward: (2569,148) -> DELTA:2421
+False
+Set 38
+Forward: (2300,147) -> DELTA:2153
+Backward: (2569,244) -> DELTA:2325
+False
+Set 39
+Forward: (2300,670) -> DELTA:1630
+Backward: (2569,1451) -> DELTA:1118
+False
+Set 40
+Forward: (2300,28423) -> DELTA:-26123
+Backward: (2569,28714) -> DELTA:-26145
+False
+Set 41
+Forward: (21488,25344) -> DELTA:-3856
+Backward: (21894,25520) -> DELTA:-3626
+False
+Set 42
+Forward: (21488,17542) -> DELTA:3946
+Backward: (21894,18102) -> DELTA:3792
+False
+Set 43
+Forward: (21488,25520) -> DELTA:-4032
+Backward: (21894,26206) -> DELTA:-4312
+False
+Set 44
+Forward: (21488,28355) -> DELTA:-6867
+Backward: (21894,28422) -> DELTA:-6528
+False
+Set 45
+Forward: (21488,23592) -> DELTA:-2104
+Backward: (21894,24185) -> DELTA:-2291
+False
+Set 46
+Forward: (21488,17169) -> DELTA:4319
+Backward: (21894,17736) -> DELTA:4158
+False
+Set 47
+Forward: (21488,81) -> DELTA:21407
+Backward: (21894,148) -> DELTA:21746
+False
+Set 48
+Forward: (21488,147) -> DELTA:21341
+Backward: (21894,244) -> DELTA:21650
+False
+Set 49
+Forward: (21488,670) -> DELTA:20818
+Backward: (21894,1451) -> DELTA:20443
+False
+Set 50
+Forward: (21488,28423) -> DELTA:-6935
+Backward: (21894,28714) -> DELTA:-6820
+False
+Set 51
+Forward: (29029,25344) -> DELTA:3685
+Backward: (29244,25520) -> DELTA:3724
+False
+Set 52
+Forward: (29029,17542) -> DELTA:11487
+Backward: (29244,18102) -> DELTA:11142
+False
+Set 53
+Forward: (29029,25520) -> DELTA:3509
+Backward: (29244,26206) -> DELTA:3038
+False
+Set 54
+Forward: (29029,28355) -> DELTA:674
+Backward: (29244,28422) -> DELTA:822
+False
+Set 55
+Forward: (29029,23592) -> DELTA:5437
+Backward: (29244,24185) -> DELTA:5059
+False
+Set 56
+Forward: (29029,17169) -> DELTA:11860
+Backward: (29244,17736) -> DELTA:11508
+False
+Set 57
+Forward: (29029,81) -> DELTA:28948
+Backward: (29244,148) -> DELTA:29096
+False
+Set 58
+Forward: (29029,147) -> DELTA:28882
+Backward: (29244,244) -> DELTA:29000
+False
+Set 59
+Forward: (29029,670) -> DELTA:28359
+Backward: (29244,1451) -> DELTA:27793
+False
+Set 60
+Forward: (29029,28423) -> DELTA:606
+Backward: (29244,28714) -> DELTA:530
+False

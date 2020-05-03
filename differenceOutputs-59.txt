@@ -1,0 +1,40 @@
+Set 1
+Forward: (3244,25344) -> DELTA:-22100
+Backward: (4041,25520) -> DELTA:-21479
+False
+Set 2
+Forward: (3244,17542) -> DELTA:-14298
+Backward: (4041,18102) -> DELTA:-14061
+False
+Set 3
+Forward: (3244,25520) -> DELTA:-22276
+Backward: (4041,26206) -> DELTA:-22165
+False
+Set 4
+Forward: (3244,28355) -> DELTA:-25111
+Backward: (4041,28422) -> DELTA:-24381
+False
+Set 5
+Forward: (3244,23592) -> DELTA:-20348
+Backward: (4041,24185) -> DELTA:-20144
+False
+Set 6
+Forward: (3244,81) -> DELTA:3163
+Backward: (4041,148) -> DELTA:3893
+False
+Set 7
+Forward: (3244,147) -> DELTA:3097
+Backward: (4041,244) -> DELTA:3797
+False
+Set 8
+Forward: (3244,28423) -> DELTA:-25179
+Backward: (4041,28714) -> DELTA:-24673
+False
+Set 9
+Forward: (3244,670) -> DELTA:2574
+Backward: (4041,1451) -> DELTA:2590
+False
+Set 10
+Forward: (3244,17169) -> DELTA:-13925
+Backward: (4041,17736) -> DELTA:-13695
+False
